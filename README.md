@@ -16,6 +16,7 @@ Contributions welcome! See [contributing.md](contributing.md).
   - [Strategy](#strategy)
   - [Arcade](#arcade)
   - [RPG](#rpg)
+  - [Party & Card](#party--card)
 - [Where to Find More](#where-to-find-more)
 
 ## Narrative Incrementals
@@ -90,6 +91,10 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [BrowserQuest](https://browserquest.mozilla.org/) - HTML5 and JavaScript multiplayer game experiment from Mozilla.
 - [Diablo JS](https://mitallast.github.io/diablo-js/) - Isometric minimal-code style game at HTML5 canvas.
 - [Veilbound](https://veilbound.gg) - Free 3D WebGL MMORPG with nine classes, dungeons, guilds, and PvP duels.
+
+### Party & Card
+
+- [Kings Cup Online](https://www.onlinekingscup.com/) - Classic Kings Cup party card game for a group sharing one device, with five rule sets and a built-in guide for all 13 cards.
 
 ## Where to Find More
 
