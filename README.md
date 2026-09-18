@@ -71,6 +71,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [2048](https://gabrielecirulli.github.io/2048/) - Sliding number puzzle game. Addictive and elegant.
 - [0h h1](https://0hh1.com/) - Lovely little logic puzzle by Q42.
 - [0h h0](https://0hn0.com/) - Companion puzzle game to 0h h1.
+- [DeckGames](https://deckgames.io) - `Card` `Solitaire` `Casual` - Free card games in your browser — classic solitaire variants and chess, no download.
 - [A Dark Room](http://adarkroom.doublespeakgames.com/) - Minimalist text adventure that evolves into something much bigger.
 
 ### Strategy
