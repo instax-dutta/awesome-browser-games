@@ -68,6 +68,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 ### Puzzle
 
 - [Meccha Chameleon](https://mecchachameleon.art/) - Browser-playable hide-and-seek camo game with painting, map, and new-player helpers.
+- [Meikyu](https://meikyu.app/play/) - Deduce a five-resident dungeon in six attempts using positional feedback and hidden rules; free through floor 19.
 - [2048](https://gabrielecirulli.github.io/2048/) - Sliding number puzzle game. Addictive and elegant.
 - [0h h1](https://0hh1.com/) - Lovely little logic puzzle by Q42.
 - [0h h0](https://0hn0.com/) - Companion puzzle game to 0h h1.
