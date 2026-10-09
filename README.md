@@ -72,6 +72,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [0h h1](https://0hh1.com/) - Lovely little logic puzzle by Q42.
 - [0h h0](https://0hn0.com/) - Companion puzzle game to 0h h1.
 - [A Dark Room](http://adarkroom.doublespeakgames.com/) - Minimalist text adventure that evolves into something much bigger.
+- [ArrowGame](https://arrowgame.app/) - Browser-based spatial logic puzzle about clearing arrows in a safe order, with 1,000 levels and a daily boss challenge.
 
 ### Strategy
 
