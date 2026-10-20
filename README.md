@@ -83,6 +83,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 - [HexGL](https://hexgl.bkcore.com/) - Futuristic HTML5 racing game with WebGL graphics.
 - [Particle Clicker](https://cern.ch/particle-clicker) - Addictive incremental game that teaches particle physics.
+- [SnakeRank](https://snakerank.app/) - Classic Snake where each completed run counts toward the leaderboard of an app you choose. Ranked runs require an email sign-in.
 
 ### RPG
 
