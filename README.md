@@ -75,6 +75,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 ### Strategy
 
+- [17-0 Football Game](https://17-0football.com/) - Free football roster strategy game with shared Daily challenges, unlimited Practice, and a 17-week season simulation.
 - [Freeciv-web](https://www.freecivweb.org/) - Turn-based strategy game, Civilization clone for the browser.
 - [An efficient micro](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter.
 - [Last Colony](https://www.adityaravishankar.com/projects/games/lastcolony/) - RTS game with single-player campaign and multiplayer.
