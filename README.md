@@ -90,6 +90,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [BrowserQuest](https://browserquest.mozilla.org/) - HTML5 and JavaScript multiplayer game experiment from Mozilla.
 - [Diablo JS](https://mitallast.github.io/diablo-js/) - Isometric minimal-code style game at HTML5 canvas.
 - [Veilbound](https://veilbound.gg) - Free 3D WebGL MMORPG with nine classes, dungeons, guilds, and PvP duels.
+- [Oh My Dog!](https://t.me/OhMyDogMobileBot) - Free idle card RPG with dog heroes, PvP arena and guild battles, played in Telegram (web, desktop or mobile) with no download.
 
 ## Where to Find More
 
