@@ -75,6 +75,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 ### Strategy
 
+- [2 Minute Drill](https://2mindrillgame.org/) - American football strategy game where you take over the last two minutes of a real NFL ending, call plays and manage the clock.
 - [Freeciv-web](https://www.freecivweb.org/) - Turn-based strategy game, Civilization clone for the browser.
 - [An efficient micro](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter.
 - [Last Colony](https://www.adityaravishankar.com/projects/games/lastcolony/) - RTS game with single-player campaign and multiplayer.
