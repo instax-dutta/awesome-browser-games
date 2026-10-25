@@ -67,6 +67,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 ### Puzzle
 
+- [Tectonic](https://www.scalargame.com/tectonic) - Free daily geography jigsaw on a 3D globe: drag countries beside their neighbours before the clock runs out.
 - [Meccha Chameleon](https://mecchachameleon.art/) - Browser-playable hide-and-seek camo game with painting, map, and new-player helpers.
 - [2048](https://gabrielecirulli.github.io/2048/) - Sliding number puzzle game. Addictive and elegant.
 - [0h h1](https://0hh1.com/) - Lovely little logic puzzle by Q42.
