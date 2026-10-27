@@ -76,6 +76,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 ### Strategy
 
 - [Freeciv-web](https://www.freecivweb.org/) - Turn-based strategy game, Civilization clone for the browser.
+- [REDLINE (Daily Red)](https://daily-red.app/) - Daily Pokémon battle challenge: build a Gen I–III team and try to beat Red’s fixed six.
 - [An efficient micro](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter.
 - [Last Colony](https://www.adityaravishankar.com/projects/games/lastcolony/) - RTS game with single-player campaign and multiplayer.
 
