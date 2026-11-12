@@ -82,6 +82,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 ### Arcade
 
 - [HexGL](https://hexgl.bkcore.com/) - Futuristic HTML5 racing game with WebGL graphics.
+- [Huss Valley](https://hussvalley.io/) - Free Halloween .io chase game for up to 30 players, playable in the browser with no download.
 - [Particle Clicker](https://cern.ch/particle-clicker) - Addictive incremental game that teaches particle physics.
 
 ### RPG
