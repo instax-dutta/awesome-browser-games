@@ -91,6 +91,8 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [Diablo JS](https://mitallast.github.io/diablo-js/) - Isometric minimal-code style game at HTML5 canvas.
 - [Veilbound](https://veilbound.gg) - Free 3D WebGL MMORPG with nine classes, dungeons, guilds, and PvP duels.
 
+- [Pokemon Dusk Reborn](https://pkmnreborn.com/) - Fan-made online RPG with Pokemon catching, trading, Gym battles, clans, and player battles.
+
 ## Where to Find More
 
 - [r/incremental_games](https://reddit.com/r/incremental_games) - The genre's home. Weekly recommendation threads.
