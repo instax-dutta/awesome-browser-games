@@ -75,6 +75,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 ### Strategy
 
+- [CheckersClub](https://checkersclub.com/) - Play American, Spanish, Brazilian and International checkers online or practise against the computer.
 - [Freeciv-web](https://www.freecivweb.org/) - Turn-based strategy game, Civilization clone for the browser.
 - [An efficient micro](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter.
 - [Last Colony](https://www.adityaravishankar.com/projects/games/lastcolony/) - RTS game with single-player campaign and multiplayer.
