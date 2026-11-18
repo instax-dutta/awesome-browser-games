@@ -34,6 +34,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 | **Evolve** | https://pmotschmann.github.io/Evolve/ | Layered progression, deep prestige tree. | Weeks |
 | **Succubox** | (search "Succubox browser") | Philosophical themes, multiple endings, text-based. | 2-3h |
 | **Shark Game** | https://cirri.al/sharks/ | Short, funny, compulsive upgrade loop. | 1-2h |
+| **Copero** | https://copero.games/ | One-tap football career: start at 16, make a decision every season, retire at 40 with the ending you earned. Plays in ten languages, no account. | 30-60m |
 
 ### Deep Prestige / Mathematical Rabbit Holes
 
