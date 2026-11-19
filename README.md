@@ -67,6 +67,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 ### Puzzle
 
+- [Crowd Pick](https://noillirk.best/#practice) - Guess the highest-ranked answer to seven prompts in a replayable solo browser quiz.
 - [Meccha Chameleon](https://mecchachameleon.art/) - Browser-playable hide-and-seek camo game with painting, map, and new-player helpers.
 - [2048](https://gabrielecirulli.github.io/2048/) - Sliding number puzzle game. Addictive and elegant.
 - [0h h1](https://0hh1.com/) - Lovely little logic puzzle by Q42.
