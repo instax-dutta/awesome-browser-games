@@ -83,6 +83,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 - [HexGL](https://hexgl.bkcore.com/) - Futuristic HTML5 racing game with WebGL graphics.
 - [Particle Clicker](https://cern.ch/particle-clicker) - Addictive incremental game that teaches particle physics.
+- [Pixel Rush](https://www.playdrop.ai/@ministudio/pixel-rush) - One-button rhythm platformer with five chiptune worlds and a checkpoint-based practice mode.
 
 ### RPG
 
