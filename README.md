@@ -100,6 +100,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [CrazyGames (Incremental tag)](https://www.crazygames.com/t/incremental) - Filtered catalog.
 - [Awesome Games on GitHub](https://github.com/leereilly/games) - Open source games on GitHub (archived but extensive).
 - [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8) - Fantasy console games (many playable in browser).
+- [Ceshousu Growth Worlds](https://ceshousu.com/en/collections/growing-worlds/) - Curated open-source incremental and strategy browser classics with upstream credits, source archives, and local JSON save backups.
 
 ## Contributing
 
