@@ -82,6 +82,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 ### Arcade
 
 - [HexGL](https://hexgl.bkcore.com/) - Futuristic HTML5 racing game with WebGL graphics.
+- [Coastline Sprint](https://sherubhaigame.org/embed/coastline-sprint) - A browser driving game with eight checkpoints on a winding coastal course.
 - [Particle Clicker](https://cern.ch/particle-clicker) - Addictive incremental game that teaches particle physics.
 
 ### RPG
